@@ -1,0 +1,14 @@
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\Essences\bin\Debug\Essences.exe.config
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\Essences\bin\Debug\Essences.exe
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\Essences\bin\Debug\Essences.pdb
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\Essences\obj\Debug\Essences.csprojAssemblyReference.cache
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\Essences\obj\Debug\Essences.Form2.resources
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\Essences\obj\Debug\Essences.Properties.Resources.resources
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\Essences\obj\Debug\Essences.csproj.GenerateResource.cache
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\Essences\obj\Debug\Essences.csproj.CoreCompileInputs.cache
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\Essences\obj\Debug\Essences.exe
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\Essences\obj\Debug\Essences.pdb
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\Essences\bin\Debug\CodeCB.exe
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\Essences\bin\Debug\CodeCB.pdb
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\Essences\bin\Debug\CodeCB.exe.config
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\Essences\obj\Debug\Essences.csproj.CopyComplete

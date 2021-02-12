@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StationExo", "StationExo.csproj", "{228514C4-479D-41D6-B4A8-34B03D40D836}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Essences", "..\Essences\Essences.csproj", "{F6F547D0-4392-4211-9F6A-002F44CF841F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeCB", "..\CodeCB\CodeCB.csproj", "{528917EA-ACF8-4604-BA68-839B297F4D74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{228514C4-479D-41D6-B4A8-34B03D40D836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{228514C4-479D-41D6-B4A8-34B03D40D836}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{228514C4-479D-41D6-B4A8-34B03D40D836}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{228514C4-479D-41D6-B4A8-34B03D40D836}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6F547D0-4392-4211-9F6A-002F44CF841F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6F547D0-4392-4211-9F6A-002F44CF841F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6F547D0-4392-4211-9F6A-002F44CF841F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6F547D0-4392-4211-9F6A-002F44CF841F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{528917EA-ACF8-4604-BA68-839B297F4D74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{528917EA-ACF8-4604-BA68-839B297F4D74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{528917EA-ACF8-4604-BA68-839B297F4D74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{528917EA-ACF8-4604-BA68-839B297F4D74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A97D434C-B906-475D-B4AB-FAC7105E4DFC}
+	EndGlobalSection
+EndGlobal

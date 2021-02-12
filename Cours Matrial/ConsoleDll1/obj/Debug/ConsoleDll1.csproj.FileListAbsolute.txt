@@ -1,0 +1,10 @@
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\ConsoleDll1\bin\Debug\ConsoleDll1.exe.config
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\ConsoleDll1\bin\Debug\ConsoleDll1.exe
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\ConsoleDll1\bin\Debug\ConsoleDll1.pdb
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\ConsoleDll1\bin\Debug\DllCalcul.dll
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\ConsoleDll1\bin\Debug\DllCalcul.pdb
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\ConsoleDll1\obj\Debug\ConsoleDll1.csprojAssemblyReference.cache
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\ConsoleDll1\obj\Debug\ConsoleDll1.csproj.CoreCompileInputs.cache
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\ConsoleDll1\obj\Debug\ConsoleDll1.csproj.CopyComplete
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\ConsoleDll1\obj\Debug\ConsoleDll1.exe
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\ConsoleDll1\obj\Debug\ConsoleDll1.pdb

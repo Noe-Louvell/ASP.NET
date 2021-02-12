@@ -1,0 +1,8 @@
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\CodeCB\bin\Debug\CodeCB.exe.config
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\CodeCB\bin\Debug\CodeCB.exe
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\CodeCB\bin\Debug\CodeCB.pdb
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\CodeCB\obj\Debug\CodeCB.Properties.Resources.resources
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\CodeCB\obj\Debug\CodeCB.csproj.GenerateResource.cache
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\CodeCB\obj\Debug\CodeCB.csproj.CoreCompileInputs.cache
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\CodeCB\obj\Debug\CodeCB.exe
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\CodeCB\obj\Debug\CodeCB.pdb

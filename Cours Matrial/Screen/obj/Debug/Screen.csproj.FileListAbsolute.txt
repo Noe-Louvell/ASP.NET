@@ -1,0 +1,11 @@
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\Screen\bin\Debug\Screen.exe.config
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\Screen\bin\Debug\Screen.exe
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\Screen\bin\Debug\Screen.pdb
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\Screen\obj\Debug\Screen.csprojAssemblyReference.cache
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\Screen\obj\Debug\Screen.Inter.resources
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\Screen\obj\Debug\Screen.Properties.Resources.resources
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\Screen\obj\Debug\Screen.Screen.resources
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\Screen\obj\Debug\Screen.csproj.GenerateResource.cache
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\Screen\obj\Debug\Screen.csproj.CoreCompileInputs.cache
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\Screen\obj\Debug\Screen.exe
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\Screen\obj\Debug\Screen.pdb

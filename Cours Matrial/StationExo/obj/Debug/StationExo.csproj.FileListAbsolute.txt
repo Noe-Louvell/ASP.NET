@@ -1,0 +1,17 @@
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\StationExo\bin\Debug\StationExo.exe.config
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\StationExo\bin\Debug\StationExo.exe
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\StationExo\bin\Debug\StationExo.pdb
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\StationExo\bin\Debug\Essences.exe
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\StationExo\bin\Debug\Essences.pdb
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\StationExo\bin\Debug\Essences.exe.config
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\StationExo\obj\Debug\StationExo.csprojAssemblyReference.cache
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\StationExo\obj\Debug\StationExo.Form1.resources
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\StationExo\obj\Debug\StationExo.Properties.Resources.resources
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\StationExo\obj\Debug\StationExo.csproj.GenerateResource.cache
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\StationExo\obj\Debug\StationExo.csproj.CoreCompileInputs.cache
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\StationExo\obj\Debug\StationExo.csproj.CopyComplete
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\StationExo\obj\Debug\StationExo.exe
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\StationExo\obj\Debug\StationExo.pdb
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\StationExo\bin\Debug\CodeCB.exe
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\StationExo\bin\Debug\CodeCB.pdb
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\StationExo\bin\Debug\CodeCB.exe.config

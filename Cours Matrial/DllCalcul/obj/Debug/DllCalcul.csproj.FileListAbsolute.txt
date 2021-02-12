@@ -1,0 +1,6 @@
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\DllCalcul\bin\Debug\DllCalcul.dll
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\DllCalcul\bin\Debug\DllCalcul.pdb
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\DllCalcul\obj\Debug\DllCalcul.csprojAssemblyReference.cache
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\DllCalcul\obj\Debug\DllCalcul.csproj.CoreCompileInputs.cache
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\DllCalcul\obj\Debug\DllCalcul.dll
+C:\Users\Aspha\OneDrive\Bureau\Cours C#\Cours Matrial\DllCalcul\obj\Debug\DllCalcul.pdb
